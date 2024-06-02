@@ -1,0 +1,5 @@
+Flask
+Cors 
+React
+Axios
+react-tinder-card
